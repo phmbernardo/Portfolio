@@ -54,46 +54,79 @@ O primeiro ano foi focado na introdução ao mercado e na compreensão dos pilar
 O segundo ano aprofundou temas como criatividade, inovação, liderança e segurança, preparando para desafios mais complexos.
 
 * **08/04/2024 — Itix**
+
+  <img width="334" height="594" alt="image" src="https://github.com/user-attachments/assets/627b2307-9bf7-4b30-a753-472280e771d1" />
+
     * **Tema:** Criatividade e Inovação.
     * **O que aprendemos:** A importância de pensar diferente para criar soluções de impacto.
 
 * **23/05/2024 — Tegra**
+
+  <img width="396" height="415" alt="image" src="https://github.com/user-attachments/assets/a962da80-f4ca-4003-8502-9a2dc5c7695f" />
+
     * **Tema:** O impacto da IA nas carreiras.
     * **O que aprendemos:** A IA como diferencial competitivo no mercado.
 
 * **27/05/2024 — Eduzz**
+
+  <img width="1024" height="642" alt="image" src="https://github.com/user-attachments/assets/9d9cc649-c248-4c72-b62f-e60e1297236b" />
+
     * **Tema:** Liderança e Gestão 3.0.
     * **O que aprendemos:** Liderar é inspirar e organizar para o crescimento conjunto.
 
 * **18/06/2024 — Itix**
+
+  <img width="299" height="290" alt="image" src="https://github.com/user-attachments/assets/ede1aefe-a55a-4893-bfc8-fe0d9aac9a88" />
+
     * **Tema:** Homelabs e crescimento técnico.
     * **O que aprendemos:** A prática de montar um ambiente de testes como caminho real para a evolução em TI.
 
 * **31/07/2024 — Eduzz**
+
+  <img width="833" height="461" alt="image" src="https://github.com/user-attachments/assets/58450f95-be7f-4ab6-ab9b-c5fcd6c24865" />
+
     * **Tema:** Segurança digital.
     * **O que aprendemos:** A responsabilidade de usar a habilidade técnica para proteger pessoas e sistemas.
 
 * **28/08/2024 — Eduzz**
+
+  <img width="733" height="298" alt="image" src="https://github.com/user-attachments/assets/76cb9e55-eab5-4de1-a622-94151a2f5356" />
+
     * **Tema:** Organização no mercado de trabalho.
     * **O que aprendemos:** O valor da disciplina e organização, além do conhecimento técnico.
 
 * **29/08/2024 — Uno**
+
+  <img width="1020" height="569" alt="image" src="https://github.com/user-attachments/assets/4e132a20-c065-4565-a20b-1c863d26f948" />
+
     * **Tema:** Fluxo de operações comerciais.
     * **O que aprendemos:** Como a TI e a gestão de negócios caminham juntos para o sucesso empresarial.
 
 * **05/09/2024 — Tegra**
+
+     <img width="335" height="586" alt="image" src="https://github.com/user-attachments/assets/848bbbf1-eb58-412d-8c9a-6637a4063bc3" />
+
     * **Tema:** Tendências de TI e IA Generativa.
     * **O que aprendemos:** A necessidade de aprendizado contínuo para acompanhar a constante revolução tecnológica.
 
 * **24/09/2024 — Eduzz**
+
+    <img width="744" height="314" alt="image" src="https://github.com/user-attachments/assets/18470453-072c-4f7c-8ef4-3ecfbf3a549f" />
+
     * **Tema:** Capricho no Mercado de Trabalho.
     * **O que aprendemos:** A qualidade e o capricho como diferenciais valorizados.
 
 * **10/10/2024 — Tegra**
+
+  <img width="449" height="585" alt="image" src="https://github.com/user-attachments/assets/90fd1cd2-384f-4c30-ac2a-52d0aecdf595" />
+
     * **Tema:** Desenvolvimento Low Code.
     * **O que aprendemos:** A criação de soluções eficientes com menos código, acelerando a inovação.
 
 * **17/10/2024 — IOCHPE**
+
+  <img width="646" height="358" alt="image" src="https://github.com/user-attachments/assets/bcf2a9fc-9fbf-40df-85b9-305776bf3ccc" />
+
     * **Tema:** Educação e aprendizado contínuo.
     * **O que aprendemos:** A importância de se manter relevante em qualquer área através do aprendizado constante.
 
