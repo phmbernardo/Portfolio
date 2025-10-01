@@ -11,22 +11,37 @@ Este repositório documenta as atividades, palestras e workshops realizados ao l
 O primeiro ano foi focado na introdução ao mercado e na compreensão dos pilares da carreira em TI.
 
 * **27/04/2023 — Tegra**
+
+     <img width="593" height="436" alt="image" src="https://github.com/user-attachments/assets/6a12cce3-30c4-48e8-a639-7cd4ca463358" />
+
     * **Tema:** Primeiro contato com o mercado.
     * **O que aprendemos:** A importância da parceria entre empresas e instituições de ensino para abrir portas no mercado de trabalho e como a tecnologia se integra ao cotidiano.
 
 * **04/05/2023 — Itix**
+
+     <img width="603" height="595" alt="image" src="https://github.com/user-attachments/assets/e6eaed47-2bb2-4788-ad68-d625618b7810" />
+
     * **Tema:** Carreira em TI.
     * **O que aprendemos:** O valor da **visão** e da **atitude** para crescer profissionalmente.
 
 * **05/05/2023 — Itix**
+
+   <img width="650" height="605" alt="image" src="https://github.com/user-attachments/assets/32a28467-c144-404d-b29d-0fc0f960ad83" />
+
     * **Tema:** Inteligência Artificial no cotidiano.
     * **O que aprendemos:** Como a IA já está presente em nossas vidas e o potencial de dominar essa área como diferencial competitivo.
 
 * **11/05/2023 — Itix**
+
+   <img width="649" height="483" alt="image" src="https://github.com/user-attachments/assets/7b53e5f8-2051-4f2c-b039-3e90619078e2" />
+
     * **Tema:** Ética e valores.
     * **O que aprendemos:** A responsabilidade do profissional de TI em criar soluções que respeitem a sociedade.
 
 * **16/11/2023 — Itix**
+
+     <img width="456" height="597" alt="image" src="https://github.com/user-attachments/assets/3d83e80d-e48e-461c-aed2-579ad612eb5e" />
+  
     * **Tema:** Workshop prático de **Scrum**.
     * **O que aprendemos:** Na prática, o trabalho em equipe usando metodologias ágeis.
 
@@ -91,6 +106,9 @@ O segundo ano aprofundou temas como criatividade, inovação, liderança e segur
 O último ano foi focado na transição para o mercado, com palestras sobre o primeiro emprego, empreendedorismo e aprofundamento técnico.
 
 * **10/04/2025 — Itix**
+
+   <img width="1052" height="566" alt="image" src="https://github.com/user-attachments/assets/991513f8-2314-403a-ad89-6d3679cf8f59" />
+
     * **Tema:** Desafios do Primeiro Emprego em TI.
     * **O que aprendemos:** A importância de desenvolver habilidades como **resiliência** e **comunicação**.
 
