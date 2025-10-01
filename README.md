@@ -146,30 +146,51 @@ O último ano foi focado na transição para o mercado, com palestras sobre o pr
     * **O que aprendemos:** A importância de desenvolver habilidades como **resiliência** e **comunicação**.
 
 * **16/04/2025 — Itix na FATEC**
+
+  <img width="484" height="367" alt="image" src="https://github.com/user-attachments/assets/60cc766c-a721-4daf-8262-a93c4af0660e" />
+
     * **Tema:** Carreira e Suporte Técnico.
     * **O que aprendemos:** Como a rotina de suporte pode ser uma porta de entrada para crescer na área.
 
 * **23/04/2025 — Eduzz**
+
+  <img width="816" height="474" alt="image" src="https://github.com/user-attachments/assets/1acd4d1f-7151-417f-9f1e-3de7f8986bf4" />
+
     * **Tema:** Workshop sobre **LinkedIn**.
     * **O que aprendemos:** A construir uma imagem profissional forte e usar o networking para crescimento.
 
 * **13/05/2025 — Eduzz**
+
+  <img width="975" height="571" alt="image" src="https://github.com/user-attachments/assets/cdc75701-e398-47c7-8421-958e2bb749d5" />
+
     * **Tema:** Empreender em TI.
     * **O que aprendemos:** O empreendedorismo exige visão de negócio e domínio técnico.
 
 * **20/08/2025 — Eduzz**
+
+  <img width="284" height="591" alt="image" src="https://github.com/user-attachments/assets/e3077003-7bd8-4954-aed1-ed78d8a63b28" />
+
     * **Tema:** Produtividade.
     * **O que aprendemos:** Organizar o tempo para conciliar estudos, vida pessoal e trabalho.
 
 * **27/08/2025 — Itix**
+
+  <img width="776" height="584" alt="image" src="https://github.com/user-attachments/assets/f64f7d56-a71d-42a7-a8ad-55123af6492f" />
+
     * **Tema:** Treinamento prático de **Banco de Dados**.
     * **O que aprendemos:** Aplicação prática de conceitos avançados de banco de dados.
 
 * **03/09/2025 — Eduzz**
+
+  <img width="979" height="557" alt="image" src="https://github.com/user-attachments/assets/d159b477-ff77-4caa-9aa7-88f312871583" />
+
     * **Tema:** Cibersegurança.
     * **O que aprendemos:** A segurança nunca deve ser um detalhe.
 
 * **16/09/2025 — Eduzz**
+
+  <img width="697" height="399" alt="image" src="https://github.com/user-attachments/assets/f8487094-cbb5-4a4f-a609-07ed08b10b25" />
+
     * **Tema:** Inteligência Artificial aplicada.
     * **O que aprendemos:** O domínio da IA será essencial para qualquer carreira em tecnologia.
 
