@@ -193,5 +193,15 @@ O último ano foi focado na transição para o mercado, com palestras sobre o pr
 
     * **Tema:** Inteligência Artificial aplicada.
     * **O que aprendemos:** O domínio da IA será essencial para qualquer carreira em tecnologia.
+ 
+
+
+* **30/10/2025 — Eduzz**
+
+   <img width="659" height="588" alt="image" src="https://github.com/user-attachments/assets/7ee16cce-2f7c-482e-a7c4-b462954a1d26" />
+
+
+    * **Tema:** Criando Aplicativo do zero.
+    * **O que aprendemos:** Reunião online com a EDUZZ - Desenvolvimento Mobile: Criando aplicativo do zero.
 
 ---
